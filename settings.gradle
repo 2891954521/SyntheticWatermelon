@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "合成大西瓜Lite"
